@@ -1,3 +1,4 @@
 primeira alteração.
 professor é gente boa e engraçado ele da aula de front-end  e design
 o professor é pessoa grande e forte e da um pouco de medo mas eu nao tenho medo dele 
+Alterações de commit feitas no editor padrão 
